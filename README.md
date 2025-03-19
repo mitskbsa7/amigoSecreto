@@ -24,3 +24,4 @@ Una aplicación sencilla que permite a los usuarios ingresar nombres de sus amig
 ![image](https://github.com/user-attachments/assets/a7c4e7d5-feea-4a83-85e9-c82bd4b1f78e)
 ![image](https://github.com/user-attachments/assets/f1984a7f-c73d-4a85-8e47-3b710612c9e5)
 
+![ff043987-239b-4661-bdb1-7f4ca6092c48](https://github.com/user-attachments/assets/420ae54b-3df5-47fe-9493-39e7e2acdb37)
