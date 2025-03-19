@@ -21,3 +21,6 @@ Una aplicación sencilla que permite a los usuarios ingresar nombres de sus amig
    ```bash
    git clone https://github.com/mitskbsa7/amigoSecreto.git
    cd amigo-secreto
+![image](https://github.com/user-attachments/assets/a7c4e7d5-feea-4a83-85e9-c82bd4b1f78e)
+![image](https://github.com/user-attachments/assets/f1984a7f-c73d-4a85-8e47-3b710612c9e5)
+
